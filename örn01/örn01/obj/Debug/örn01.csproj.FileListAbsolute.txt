@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\bin\Debug\örn01.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\bin\Debug\örn01.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\bin\Debug\örn01.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\örn01\örn01\obj\Debug\örn01.pdb
